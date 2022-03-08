@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bikes>
+	<Bike>
+		<id>1</id>
+		<name>yaseen</name>
+		<speed>60</speed>
+	</Bike>
+	
+	<Bike>
+		<id>2</id>
+		<name>vaikarai</name>
+		<speed>70</speed>
+	</Bike>
+	
+	<Bike>
+		<id>3</id>
+		<name>ram</name>
+		<speed>120</speed>
+	</Bike>
+	
+	<Bike>
+		<id>4</id>
+		<name>surya</name>
+		<speed>130</speed>
+	</Bike>
+	
+	<Bike>
+		<id>5</id>
+		<name>ibu</name>
+		<speed>40</speed>
+	</Bike>
+	
+	</Bikes>
